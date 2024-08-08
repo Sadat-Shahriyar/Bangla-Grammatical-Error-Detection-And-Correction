@@ -1,0 +1,17 @@
+{
+    "eval_loss": 1.6596273183822632,
+    "eval_sacrebleu": 88.9326,
+    "eval_gen_len": 22.4026,
+    "eval_runtime": 897.9893,
+    "eval_samples_per_second": 3.7,
+    "eval_steps_per_second": 0.463,
+    "epoch": 2.0,
+    "eval_samples": 3323,
+    "predict_loss": 1.653468132019043,
+    "predict_sacrebleu": 89.0658,
+    "predict_gen_len": 22.6392,
+    "predict_runtime": 878.735,
+    "predict_samples_per_second": 3.782,
+    "predict_steps_per_second": 0.473,
+    "predict_samples": 3323
+}
