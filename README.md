@@ -1,4 +1,4 @@
-# Bangla Grammatical Error Correction
+# Bangla Grammatical Error Detection
 
 ## CSE 472 Term Project
 
@@ -12,7 +12,7 @@ Results are available in the `./results` folder
 
 ### Description
 
-We synthetically added grammatical error to a grammatically coherent dataset collected from newspapers. We find the part of speech of each word in a sentence and randomly add/edit/exchange relevant parts of speech to create our erroneous dataset. We then split the dataset into `train`, `validation`, `test` sets and train our models. 
+We synthetically added grammatical error to a grammatically coherent dataset collected from newspapers. We find the part of speech of each word in a sentence and randomly add/edit/exchange relevant parts of speech to create our erroneous dataset. We then split the dataset into `train`, `validation`, `test` sets and train our models. After training our models, we evaluate the amount of detected errors.
 
 ### Dataset example
 
